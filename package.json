@@ -1,0 +1,21 @@
+{
+  "name": "glimps-ofsc",
+  "displayName": "glimps_ofsc",
+  "description": "new mode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "glimps_ofsc",
+        "uiTheme": "vs-dark",
+        "path": "./themes/glimps_ofsc-color-theme.json"
+      }
+    ]
+  }
+}
